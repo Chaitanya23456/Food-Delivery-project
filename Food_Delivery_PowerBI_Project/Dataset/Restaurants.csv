@@ -1,0 +1,262 @@
+Restaurant_ID,Restaurant_Name,City_ID,Restaurant_Type,Food_Category,Average_Rating,Average_Preparation_Time,Price_Category,Restaurant_Status
+RES1001,Bawarchi South Indian Cafe,CT101,Casual Dining,South Indian,3.8,26,Premium,Active
+RES1002,Spice Healthy Food Hub,CT101,Casual Dining,Healthy Food,3.4,31,Premium,Active
+RES1003,Southern Street Food Bites,CT101,Casual Dining,Street Food,4.5,24,Premium,Active
+RES1004,Curry Street Food Corner,CT101,Fine Dining,Street Food,4.4,30,Budget,Active
+RES1005,Desi Desserts & Beverages Corner,CT101,Casual Dining,Desserts & Beverages,3.5,30,Budget,Active
+RES1006,Paradise Mughlai Express,CT101,Cloud Kitchen,Mughlai,3.5,21,Budget,Active
+RES1007,Spice South Indian Point,CT101,Casual Dining,South Indian,4.6,25,Premium,Active
+RES1008,Golden Italian Express,CT101,Fine Dining,Italian,4.7,45,Mid-Range,Active
+RES1009,Golden Chinese Point,CT101,Cafe,Chinese,4.3,20,Premium,Active
+RES1010,Curry Italian Dhaba,CT101,Fine Dining,Italian,3.7,42,Premium,Active
+RES1011,Tandoori North Indian Treats,CT101,Fine Dining,North Indian,3.5,33,Mid-Range,Active
+RES1012,Bawarchi Mughlai Point,CT101,Bakery & Desserts,Mughlai,3.6,19,Premium,Active
+RES1013,Tandoori Healthy Food Villa,CT101,Fine Dining,Healthy Food,4.0,43,Premium,Active
+RES1014,Taste of Biryani Grill,CT101,Cloud Kitchen,Biryani,4.5,16,Mid-Range,Active
+RES1015,Street Italian Corner,CT101,Cloud Kitchen,Italian,4.0,21,Budget,Inactive
+RES1016,Crispy North Indian Corner,CT101,Cafe,North Indian,4.4,21,Premium,Active
+RES1017,Royal Desserts & Beverages Corner,CT101,Casual Dining,Desserts & Beverages,3.6,31,Mid-Range,Inactive
+RES1018,Aroma Biryani Hub,CT101,Cloud Kitchen,Biryani,4.3,28,Budget,Active
+RES1019,Hungry Biryani Kitchen,CT101,Cloud Kitchen,Biryani,4.3,15,Premium,Active
+RES1020,Tandoori Desserts & Beverages Bistro,CT101,Fine Dining,Desserts & Beverages,3.8,26,Budget,Active
+RES1021,Hungry Mughlai Court,CT101,Casual Dining,Mughlai,3.6,22,Premium,Active
+RES1022,Southern Street Food Hub,CT101,Bakery & Desserts,Street Food,4.5,20,Budget,Active
+RES1023,Chef's Italian Station,CT101,Cafe,Italian,4.1,29,Premium,Active
+RES1024,Flavors of Fast Food Point,CT101,Casual Dining,Fast Food,4.3,18,Mid-Range,Active
+RES1025,Spice North Indian Point,CT101,Fast Food,North Indian,4.7,12,Budget,Active
+RES1026,Tandoori Mughlai House,CT101,Fast Food,Mughlai,4.5,14,Premium,Active
+RES1027,Little Mughlai Express,CT101,Bakery & Desserts,Mughlai,3.5,13,Budget,Active
+RES1028,Heritage Mughlai Treats,CT101,Cafe,Mughlai,3.5,21,Budget,Active
+RES1029,Bawarchi South Indian Bites,CT101,Fast Food,South Indian,4.2,15,Budget,Active
+RES1030,Crispy Mughlai Cafe,CT101,Fast Food,Mughlai,4.6,19,Budget,Active
+RES1031,Hungry Healthy Food House,CT101,Casual Dining,Healthy Food,3.6,25,Budget,Active
+RES1032,Grand Italian Corner,CT101,Casual Dining,Italian,3.4,30,Budget,Active
+RES1033,Hungry Mughlai Grill,CT101,Fine Dining,Mughlai,4.4,42,Mid-Range,Active
+RES1034,Curry Fast Food Dhaba,CT101,Casual Dining,Fast Food,3.5,35,Premium,Active
+RES1035,Chef's Mughlai Bistro,CT101,Cloud Kitchen,Mughlai,3.5,17,Premium,Active
+RES1036,Grand South Indian Cafe,CT101,Cloud Kitchen,South Indian,4.7,25,Budget,Inactive
+RES1037,Spice Street Food Bites,CT101,Fast Food,Street Food,3.5,21,Premium,Active
+RES1038,Southern Street Food Treats,CT101,Cloud Kitchen,Street Food,3.7,19,Mid-Range,Active
+RES1039,Curry Italian Bistro,CT101,Fast Food,Italian,3.8,22,Premium,Active
+RES1040,Chef's Street Food Corner,CT101,Cloud Kitchen,Street Food,4.2,16,Budget,Active
+RES1041,Street Desserts & Beverages Plaza,CT101,Casual Dining,Desserts & Beverages,3.8,29,Budget,Active
+RES1042,Daily Healthy Food Cafe,CT101,Casual Dining,Healthy Food,3.8,35,Premium,Active
+RES1043,Bawarchi Biryani Corner,CT101,Fine Dining,Biryani,4.5,28,Budget,Active
+RES1044,Saffron Fast Food House,CT101,Cafe,Fast Food,4.4,24,Mid-Range,Active
+RES1045,The Great North Indian Kitchen,CT101,Casual Dining,North Indian,4.6,31,Premium,Active
+RES1046,Crispy Biryani Bites,CT102,Cafe,Biryani,4.5,23,Mid-Range,Active
+RES1047,Desi South Indian Grill,CT102,Casual Dining,South Indian,4.2,22,Premium,Active
+RES1048,Urban North Indian Point,CT102,Fine Dining,North Indian,4.7,26,Mid-Range,Active
+RES1049,Flavors of Desserts & Beverages Court,CT102,Cloud Kitchen,Desserts & Beverages,4.5,24,Mid-Range,Inactive
+RES1050,Curry Biryani Bites,CT102,Bakery & Desserts,Biryani,4.5,14,Budget,Active
+RES1051,The Great Fast Food House,CT102,Fine Dining,Fast Food,4.0,28,Budget,Active
+RES1052,Daily Mughlai Hub,CT102,Fine Dining,Mughlai,3.7,32,Mid-Range,Active
+RES1053,Grand Chinese Treats,CT102,Casual Dining,Chinese,4.4,29,Mid-Range,Active
+RES1054,Saffron South Indian Dhaba,CT102,Fine Dining,South Indian,4.8,43,Budget,Active
+RES1055,Chef's Italian Cafe,CT102,Fine Dining,Italian,4.1,35,Premium,Active
+RES1056,Royal Street Food Hub,CT102,Fast Food,Street Food,4.5,12,Mid-Range,Active
+RES1057,Taste of South Indian Plaza,CT102,Cafe,South Indian,4.4,28,Mid-Range,Active
+RES1058,Urban Italian Bites,CT102,Fine Dining,Italian,4.2,34,Mid-Range,Active
+RES1059,Paradise Italian Villa,CT102,Cafe,Italian,4.3,23,Premium,Active
+RES1060,Tandoori North Indian Treats,CT102,Fine Dining,North Indian,4.0,31,Mid-Range,Active
+RES1061,Heritage Mughlai Court,CT102,Cafe,Mughlai,4.1,34,Budget,Active
+RES1062,Spice Chinese Point,CT102,Cloud Kitchen,Chinese,4.3,25,Premium,Active
+RES1063,Hungry Fast Food Bistro,CT102,Fast Food,Fast Food,3.5,12,Budget,Active
+RES1064,Flavors of Street Food Grill,CT102,Fast Food,Street Food,4.1,18,Premium,Active
+RES1065,Southern North Indian Station,CT102,Casual Dining,North Indian,3.7,25,Mid-Range,Active
+RES1066,Daily Fast Food Treats,CT102,Casual Dining,Fast Food,4.6,22,Mid-Range,Inactive
+RES1067,Crispy Mughlai Station,CT102,Cloud Kitchen,Mughlai,4.0,23,Premium,Active
+RES1068,Saffron Mughlai House,CT103,Bakery & Desserts,Mughlai,4.7,15,Mid-Range,Active
+RES1069,Curry Chinese Treats,CT103,Bakery & Desserts,Chinese,3.8,16,Budget,Active
+RES1070,Bawarchi South Indian Hub,CT103,Fast Food,South Indian,4.0,15,Budget,Active
+RES1071,Urban Italian Bites,CT103,Fine Dining,Italian,4.0,39,Premium,Active
+RES1072,Desi Street Food Plaza,CT103,Cafe,Street Food,4.1,30,Budget,Active
+RES1073,Green Italian Point,CT103,Cloud Kitchen,Italian,4.2,26,Premium,Active
+RES1074,Daily Chinese Villa,CT103,Bakery & Desserts,Chinese,4.0,12,Mid-Range,Active
+RES1075,Grand Mughlai Kitchen,CT103,Fast Food,Mughlai,3.4,20,Premium,Active
+RES1076,Grand Italian Treats,CT103,Fast Food,Italian,3.5,14,Mid-Range,Active
+RES1077,Little Desserts & Beverages Corner,CT103,Fine Dining,Desserts & Beverages,4.5,33,Mid-Range,Active
+RES1078,Desi Mughlai Point,CT103,Casual Dining,Mughlai,3.5,35,Premium,Active
+RES1079,Green North Indian Grill,CT103,Casual Dining,North Indian,4.7,24,Budget,Active
+RES1080,Saffron Mughlai Express,CT103,Cafe,Mughlai,4.1,24,Budget,Active
+RES1081,Golden Street Food Plaza,CT103,Cafe,Street Food,4.6,21,Premium,Active
+RES1082,Southern North Indian Hub,CT103,Fine Dining,North Indian,4.0,37,Premium,Active
+RES1083,Green Fast Food Cafe,CT103,Casual Dining,Fast Food,4.7,27,Premium,Active
+RES1084,Desi Street Food Bistro,CT103,Casual Dining,Street Food,4.0,35,Mid-Range,Active
+RES1085,Desi Desserts & Beverages Station,CT103,Casual Dining,Desserts & Beverages,3.6,33,Mid-Range,Active
+RES1086,Saffron Italian House,CT103,Fast Food,Italian,4.8,20,Premium,Active
+RES1087,Spice Street Food Corner,CT103,Fine Dining,Street Food,4.6,32,Mid-Range,Active
+RES1088,Curry Fast Food Kitchen,CT103,Bakery & Desserts,Fast Food,4.4,21,Premium,Active
+RES1089,Saffron Desserts & Beverages Treats,CT103,Fast Food,Desserts & Beverages,3.9,15,Mid-Range,Active
+RES1090,Urban Street Food Bistro,CT103,Cafe,Street Food,3.4,35,Mid-Range,Active
+RES1091,Aroma Italian House,CT103,Bakery & Desserts,Italian,4.4,15,Premium,Active
+RES1092,Flavors of North Indian Plaza,CT103,Casual Dining,North Indian,4.0,25,Mid-Range,Active
+RES1093,Heritage Desserts & Beverages Treats,CT103,Bakery & Desserts,Desserts & Beverages,3.9,20,Premium,Active
+RES1094,Heritage Mughlai Hub,CT103,Fine Dining,Mughlai,3.7,33,Mid-Range,Active
+RES1095,Hungry Healthy Food Corner,CT103,Cafe,Healthy Food,3.7,24,Budget,Active
+RES1096,Paradise Healthy Food Point,CT103,Cloud Kitchen,Healthy Food,4.6,16,Mid-Range,Active
+RES1097,The Great Chinese Dhaba,CT103,Casual Dining,Chinese,3.6,35,Premium,Active
+RES1098,Tandoori Biryani Plaza,CT103,Cafe,Biryani,4.7,21,Mid-Range,Active
+RES1099,Hungry Mughlai Cafe,CT103,Fine Dining,Mughlai,3.8,26,Budget,Active
+RES1100,The Great Italian Grill,CT103,Bakery & Desserts,Italian,4.3,21,Budget,Active
+RES1101,Little Street Food Point,CT103,Fine Dining,Street Food,3.6,32,Budget,Active
+RES1102,Little Italian Plaza,CT103,Bakery & Desserts,Italian,4.7,16,Mid-Range,Active
+RES1103,Urban North Indian Hub,CT103,Cloud Kitchen,North Indian,4.8,16,Premium,Active
+RES1104,Golden South Indian Kitchen,CT103,Fast Food,South Indian,4.2,14,Budget,Active
+RES1105,Southern Street Food Plaza,CT103,Bakery & Desserts,Street Food,3.7,12,Mid-Range,Active
+RES1106,Aroma Mughlai Hub,CT103,Casual Dining,Mughlai,4.8,25,Premium,Active
+RES1107,Bawarchi Healthy Food Bistro,CT103,Fast Food,Healthy Food,4.8,14,Premium,Active
+RES1108,Paradise Chinese Station,CT103,Cloud Kitchen,Chinese,4.3,28,Premium,Active
+RES1109,Hungry Chinese Station,CT103,Cafe,Chinese,4.2,26,Mid-Range,Active
+RES1110,Royal North Indian Bistro,CT104,Bakery & Desserts,North Indian,4.3,17,Premium,Active
+RES1111,Saffron Street Food Dhaba,CT104,Cloud Kitchen,Street Food,4.4,27,Budget,Active
+RES1112,Saffron Biryani Court,CT104,Bakery & Desserts,Biryani,4.1,22,Premium,Inactive
+RES1113,Little Italian Treats,CT104,Cafe,Italian,4.1,20,Mid-Range,Active
+RES1114,Paradise South Indian Villa,CT104,Fast Food,South Indian,4.4,18,Mid-Range,Active
+RES1115,Curry Healthy Food Cafe,CT104,Casual Dining,Healthy Food,3.9,20,Mid-Range,Inactive
+RES1116,Street Italian Bites,CT104,Cloud Kitchen,Italian,4.7,25,Budget,Active
+RES1117,The Great Healthy Food Hub,CT104,Fine Dining,Healthy Food,4.3,40,Premium,Active
+RES1118,Aroma Biryani Point,CT104,Fine Dining,Biryani,3.6,40,Mid-Range,Active
+RES1119,Flavors of Chinese Cafe,CT104,Cloud Kitchen,Chinese,4.0,23,Budget,Active
+RES1120,Paradise South Indian Corner,CT104,Cafe,South Indian,4.8,33,Budget,Active
+RES1121,Grand Mughlai Hub,CT104,Bakery & Desserts,Mughlai,4.2,19,Budget,Active
+RES1122,Little Healthy Food Treats,CT104,Cafe,Healthy Food,3.8,20,Budget,Active
+RES1123,Tandoori Healthy Food House,CT104,Fine Dining,Healthy Food,4.5,34,Budget,Active
+RES1124,Crispy Mughlai Villa,CT104,Cloud Kitchen,Mughlai,3.9,20,Mid-Range,Active
+RES1125,Flavors of Desserts & Beverages Bites,CT104,Fast Food,Desserts & Beverages,4.3,15,Premium,Active
+RES1126,Aroma Mughlai Grill,CT104,Cafe,Mughlai,4.9,30,Mid-Range,Active
+RES1127,Taste of North Indian Station,CT104,Fast Food,North Indian,3.9,21,Premium,Active
+RES1128,Aroma Mughlai Grill,CT104,Casual Dining,Mughlai,4.0,22,Premium,Active
+RES1129,Curry Chinese Villa,CT104,Fine Dining,Chinese,4.4,37,Premium,Inactive
+RES1130,Aroma Mughlai Plaza,CT104,Cloud Kitchen,Mughlai,3.5,24,Budget,Inactive
+RES1131,Taste of South Indian Station,CT104,Bakery & Desserts,South Indian,4.5,22,Budget,Active
+RES1132,Paradise Chinese Express,CT104,Casual Dining,Chinese,4.6,28,Budget,Active
+RES1133,Golden Biryani Court,CT104,Fast Food,Biryani,4.2,18,Premium,Active
+RES1134,Tandoori Street Food Grill,CT104,Bakery & Desserts,Street Food,3.8,22,Premium,Active
+RES1135,Street Chinese Plaza,CT104,Bakery & Desserts,Chinese,3.4,22,Mid-Range,Active
+RES1136,Paradise Biryani Bites,CT104,Casual Dining,Biryani,4.9,29,Mid-Range,Active
+RES1137,Taste of Mughlai Point,CT104,Fine Dining,Mughlai,4.7,37,Budget,Active
+RES1138,Daily Desserts & Beverages Villa,CT104,Cloud Kitchen,Desserts & Beverages,3.8,26,Mid-Range,Active
+RES1139,Heritage Street Food House,CT104,Cafe,Street Food,4.8,19,Premium,Active
+RES1140,Urban Chinese Corner,CT104,Fast Food,Chinese,3.7,17,Premium,Active
+RES1141,Street Biryani Dhaba,CT104,Cafe,Biryani,3.9,19,Budget,Active
+RES1142,Golden Biryani Hub,CT104,Casual Dining,Biryani,4.5,28,Mid-Range,Active
+RES1143,Golden Healthy Food Corner,CT104,Fine Dining,Healthy Food,4.8,41,Premium,Active
+RES1144,Street Mughlai Bistro,CT104,Fine Dining,Mughlai,4.6,35,Premium,Active
+RES1145,Crispy Fast Food Express,CT104,Cafe,Fast Food,4.9,30,Premium,Active
+RES1146,Desi Italian Corner,CT104,Casual Dining,Italian,3.6,35,Mid-Range,Active
+RES1147,Green Desserts & Beverages Treats,CT104,Casual Dining,Desserts & Beverages,4.1,25,Premium,Active
+RES1148,Paradise Fast Food Bites,CT104,Cafe,Fast Food,4.8,32,Budget,Active
+RES1149,Flavors of North Indian Grill,CT104,Casual Dining,North Indian,3.6,33,Mid-Range,Active
+RES1150,Heritage Desserts & Beverages Grill,CT105,Cafe,Desserts & Beverages,4.0,35,Premium,Active
+RES1151,Saffron South Indian Dhaba,CT105,Bakery & Desserts,South Indian,4.8,18,Premium,Active
+RES1152,Taste of Fast Food Express,CT105,Bakery & Desserts,Fast Food,4.7,15,Mid-Range,Active
+RES1153,Taste of Desserts & Beverages Station,CT105,Casual Dining,Desserts & Beverages,3.7,26,Mid-Range,Active
+RES1154,Curry Fast Food Point,CT105,Cafe,Fast Food,3.5,18,Premium,Inactive
+RES1155,Urban Street Food Point,CT105,Fast Food,Street Food,3.7,20,Budget,Active
+RES1156,Bawarchi Biryani Grill,CT105,Cloud Kitchen,Biryani,4.7,19,Budget,Active
+RES1157,Desi Biryani Point,CT105,Casual Dining,Biryani,3.6,18,Premium,Active
+RES1158,Little North Indian Cafe,CT105,Fast Food,North Indian,3.6,12,Mid-Range,Active
+RES1159,Street Mughlai Point,CT105,Bakery & Desserts,Mughlai,4.3,20,Mid-Range,Inactive
+RES1160,Aroma North Indian Kitchen,CT105,Cafe,North Indian,3.9,34,Premium,Active
+RES1161,Southern Mughlai Station,CT105,Bakery & Desserts,Mughlai,3.6,22,Mid-Range,Active
+RES1162,Saffron South Indian Treats,CT105,Fine Dining,South Indian,3.5,29,Premium,Active
+RES1163,Little Street Food Cafe,CT105,Cloud Kitchen,Street Food,4.2,22,Mid-Range,Active
+RES1164,Urban South Indian Bites,CT105,Cafe,South Indian,4.5,35,Premium,Active
+RES1165,Heritage Fast Food Cafe,CT105,Bakery & Desserts,Fast Food,4.0,19,Mid-Range,Active
+RES1166,Daily Desserts & Beverages House,CT105,Cafe,Desserts & Beverages,4.8,29,Mid-Range,Active
+RES1167,Desi South Indian Grill,CT105,Casual Dining,South Indian,4.5,21,Mid-Range,Active
+RES1168,Little Street Food Express,CT105,Cloud Kitchen,Street Food,4.4,20,Premium,Active
+RES1169,Desi Italian Cafe,CT105,Cafe,Italian,4.3,27,Budget,Active
+RES1170,Taste of Fast Food Express,CT105,Fast Food,Fast Food,3.7,19,Premium,Active
+RES1171,Crispy Desserts & Beverages Kitchen,CT105,Casual Dining,Desserts & Beverages,4.6,25,Mid-Range,Active
+RES1172,Paradise Chinese Treats,CT105,Casual Dining,Chinese,4.5,26,Budget,Active
+RES1173,Bawarchi Biryani Kitchen,CT105,Fast Food,Biryani,4.0,22,Premium,Active
+RES1174,Golden Healthy Food Express,CT105,Fast Food,Healthy Food,4.1,18,Mid-Range,Active
+RES1175,Bawarchi Desserts & Beverages Court,CT105,Cloud Kitchen,Desserts & Beverages,4.7,16,Premium,Active
+RES1176,Little North Indian House,CT105,Cafe,North Indian,4.1,26,Budget,Active
+RES1177,Little Italian Cafe,CT105,Fine Dining,Italian,3.6,41,Budget,Active
+RES1178,Flavors of Street Food Villa,CT105,Bakery & Desserts,Street Food,3.9,22,Premium,Inactive
+RES1179,Bawarchi North Indian Corner,CT105,Casual Dining,North Indian,4.8,27,Budget,Active
+RES1180,Grand South Indian Point,CT106,Casual Dining,South Indian,3.7,31,Mid-Range,Active
+RES1181,Street Desserts & Beverages Bistro,CT106,Casual Dining,Desserts & Beverages,4.1,19,Mid-Range,Active
+RES1182,Little Street Food Plaza,CT106,Bakery & Desserts,Street Food,4.5,18,Premium,Active
+RES1183,Southern North Indian Express,CT106,Fine Dining,North Indian,4.1,44,Budget,Active
+RES1184,Spice South Indian Villa,CT106,Fast Food,South Indian,4.0,21,Mid-Range,Active
+RES1185,Aroma Desserts & Beverages Cafe,CT106,Fast Food,Desserts & Beverages,3.5,14,Mid-Range,Active
+RES1186,Flavors of Fast Food Cafe,CT106,Fine Dining,Fast Food,4.6,45,Mid-Range,Active
+RES1187,Aroma Fast Food Bistro,CT106,Fast Food,Fast Food,4.5,14,Premium,Active
+RES1188,Tandoori Mughlai Treats,CT106,Bakery & Desserts,Mughlai,4.1,21,Premium,Active
+RES1189,Aroma Desserts & Beverages Plaza,CT106,Fast Food,Desserts & Beverages,4.1,13,Mid-Range,Active
+RES1190,Street Street Food Station,CT106,Casual Dining,Street Food,3.5,34,Mid-Range,Active
+RES1191,Spice Desserts & Beverages Villa,CT106,Fine Dining,Desserts & Beverages,4.7,45,Budget,Active
+RES1192,Tandoori Healthy Food Hub,CT106,Cafe,Healthy Food,4.8,32,Budget,Active
+RES1193,Curry Mughlai Bistro,CT106,Cloud Kitchen,Mughlai,4.1,15,Budget,Active
+RES1194,Chef's Biryani Court,CT106,Casual Dining,Biryani,4.9,32,Budget,Active
+RES1195,The Great Chinese Treats,CT106,Bakery & Desserts,Chinese,4.4,17,Mid-Range,Active
+RES1196,Heritage South Indian Grill,CT106,Cloud Kitchen,South Indian,3.8,21,Premium,Active
+RES1197,Aroma Street Food Villa,CT106,Cafe,Street Food,3.9,29,Budget,Active
+RES1198,Curry South Indian Grill,CT106,Fine Dining,South Indian,4.4,37,Premium,Active
+RES1199,Royal Healthy Food Express,CT106,Casual Dining,Healthy Food,4.2,31,Premium,Active
+RES1200,Bawarchi Fast Food Grill,CT107,Fine Dining,Fast Food,3.7,31,Mid-Range,Active
+RES1201,Chef's South Indian Dhaba,CT107,Cloud Kitchen,South Indian,4.5,28,Premium,Active
+RES1202,Golden Street Food Court,CT107,Fast Food,Street Food,3.6,18,Premium,Active
+RES1203,Street North Indian Plaza,CT107,Bakery & Desserts,North Indian,4.5,22,Mid-Range,Active
+RES1204,Hungry Mughlai Hub,CT107,Fast Food,Mughlai,3.9,15,Premium,Active
+RES1205,Chef's Street Food Bites,CT107,Bakery & Desserts,Street Food,4.6,16,Mid-Range,Inactive
+RES1206,Aroma Fast Food House,CT107,Cloud Kitchen,Fast Food,3.8,28,Budget,Active
+RES1207,Paradise Healthy Food Bistro,CT107,Casual Dining,Healthy Food,4.7,34,Premium,Active
+RES1208,Spice Chinese Point,CT107,Bakery & Desserts,Chinese,4.6,14,Premium,Active
+RES1209,Desi Desserts & Beverages Point,CT107,Casual Dining,Desserts & Beverages,4.0,19,Mid-Range,Active
+RES1210,Taste of South Indian Treats,CT107,Fine Dining,South Indian,3.9,25,Budget,Active
+RES1211,Bawarchi Biryani House,CT107,Casual Dining,Biryani,4.4,33,Mid-Range,Active
+RES1212,Bawarchi North Indian Bites,CT107,Casual Dining,North Indian,3.7,26,Budget,Active
+RES1213,Little Chinese Station,CT107,Fast Food,Chinese,3.5,13,Mid-Range,Active
+RES1214,Tandoori Mughlai Point,CT107,Cloud Kitchen,Mughlai,4.3,15,Premium,Active
+RES1215,Tandoori Chinese Bites,CT107,Bakery & Desserts,Chinese,3.9,21,Budget,Active
+RES1216,Crispy South Indian Kitchen,CT107,Cloud Kitchen,South Indian,4.8,16,Mid-Range,Active
+RES1217,Saffron Mughlai Kitchen,CT108,Casual Dining,Mughlai,4.9,30,Premium,Active
+RES1218,Tandoori South Indian Treats,CT108,Fine Dining,South Indian,3.6,45,Budget,Active
+RES1219,Daily Desserts & Beverages Station,CT108,Cloud Kitchen,Desserts & Beverages,4.4,28,Mid-Range,Inactive
+RES1220,Street Mughlai Dhaba,CT108,Cafe,Mughlai,3.5,22,Budget,Active
+RES1221,Chef's North Indian Villa,CT108,Fast Food,North Indian,4.8,17,Budget,Inactive
+RES1222,Urban Healthy Food Plaza,CT108,Bakery & Desserts,Healthy Food,4.5,12,Mid-Range,Active
+RES1223,Desi North Indian Bites,CT108,Cafe,North Indian,3.6,26,Mid-Range,Active
+RES1224,Hungry Mughlai Express,CT108,Bakery & Desserts,Mughlai,4.1,14,Mid-Range,Active
+RES1225,Green Healthy Food Court,CT108,Fine Dining,Healthy Food,3.5,38,Budget,Active
+RES1226,Paradise Desserts & Beverages Station,CT108,Casual Dining,Desserts & Beverages,4.4,28,Budget,Active
+RES1227,The Great Italian Express,CT108,Fast Food,Italian,3.9,19,Premium,Active
+RES1228,Aroma Italian Villa,CT108,Fine Dining,Italian,3.5,26,Premium,Active
+RES1229,Spice Biryani Point,CT108,Casual Dining,Biryani,3.5,32,Budget,Active
+RES1230,Bawarchi Desserts & Beverages Station,CT108,Fine Dining,Desserts & Beverages,3.4,43,Mid-Range,Inactive
+RES1231,Desi Desserts & Beverages Villa,CT108,Bakery & Desserts,Desserts & Beverages,3.6,21,Budget,Active
+RES1232,Hungry Chinese Villa,CT109,Fast Food,Chinese,4.5,12,Budget,Active
+RES1233,Green South Indian Plaza,CT109,Fine Dining,South Indian,3.7,39,Mid-Range,Active
+RES1234,Street Mughlai Court,CT109,Fast Food,Mughlai,4.7,14,Budget,Active
+RES1235,Southern Mughlai Bistro,CT109,Casual Dining,Mughlai,4.4,28,Premium,Active
+RES1236,Desi Chinese Point,CT109,Fine Dining,Chinese,3.7,45,Budget,Active
+RES1237,Crispy Fast Food Express,CT109,Fast Food,Fast Food,3.4,19,Budget,Active
+RES1238,Grand Healthy Food House,CT109,Fast Food,Healthy Food,3.5,13,Premium,Active
+RES1239,Aroma Italian Bistro,CT109,Cloud Kitchen,Italian,4.9,17,Budget,Active
+RES1240,Golden Healthy Food Grill,CT109,Fine Dining,Healthy Food,4.4,42,Budget,Active
+RES1241,Golden North Indian Treats,CT109,Casual Dining,North Indian,3.9,22,Premium,Active
+RES1242,Saffron Fast Food Hub,CT109,Fine Dining,Fast Food,4.7,34,Premium,Active
+RES1243,Crispy Healthy Food Bistro,CT109,Fine Dining,Healthy Food,3.9,45,Budget,Active
+RES1244,Green Biryani Treats,CT109,Cloud Kitchen,Biryani,3.7,17,Premium,Active
+RES1245,Aroma Street Food Corner,CT109,Casual Dining,Street Food,3.5,20,Budget,Active
+RES1246,Aroma Street Food Plaza,CT109,Bakery & Desserts,Street Food,3.4,22,Premium,Active
+RES1247,Street Chinese Bistro,CT110,Bakery & Desserts,Chinese,4.0,22,Budget,Active
+RES1248,Curry Biryani Grill,CT110,Bakery & Desserts,Biryani,4.1,19,Mid-Range,Active
+RES1249,Desi Desserts & Beverages Cafe,CT110,Cafe,Desserts & Beverages,3.6,30,Mid-Range,Active
+RES1250,Taste of Mughlai Dhaba,CT110,Casual Dining,Mughlai,3.8,32,Mid-Range,Active
+RES1251,Golden Italian Treats,CT110,Cloud Kitchen,Italian,4.8,18,Mid-Range,Active
+RES1252,Street Desserts & Beverages House,CT110,Fast Food,Desserts & Beverages,4.9,19,Budget,Active
+RES1253,Flavors of Mughlai Hub,CT110,Casual Dining,Mughlai,4.2,30,Budget,Active
+RES1254,Aroma North Indian House,CT110,Casual Dining,North Indian,4.3,33,Mid-Range,Active
+RES1255,Heritage North Indian Express,CT110,Casual Dining,North Indian,4.7,22,Mid-Range,Active
+RES1256,Urban Desserts & Beverages Express,CT110,Casual Dining,Desserts & Beverages,4.3,19,Mid-Range,Active
+RES1257,Saffron South Indian Cafe,CT110,Bakery & Desserts,South Indian,4.5,19,Premium,Active
+RES1258,Desi South Indian Grill,CT110,Bakery & Desserts,South Indian,4.2,17,Mid-Range,Active
+RES1259,Bawarchi Healthy Food Treats,CT110,Bakery & Desserts,Healthy Food,3.5,12,Premium,Active
+RES1260,Bawarchi Healthy Food Treats,CT110,Bakery & Desserts,Healthy Food,4.7,21,Budget,Active
+RES1261,Paradise Desserts & Beverages Treats,CT110,Fast Food,Desserts & Beverages,4.5,21,Mid-Range,Active

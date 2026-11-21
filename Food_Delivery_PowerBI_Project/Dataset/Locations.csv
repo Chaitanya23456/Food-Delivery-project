@@ -1,0 +1,11 @@
+City_ID,City_Name,State,Region,Population_Category
+CT101,Mumbai,Maharashtra,West,Tier 1
+CT102,Pune,Maharashtra,West,Tier 1
+CT103,Bengaluru,Karnataka,South,Tier 1
+CT104,Delhi,Delhi,North,Tier 1
+CT105,Hyderabad,Telangana,South,Tier 1
+CT106,Chennai,Tamil Nadu,South,Tier 1
+CT107,Kolkata,West Bengal,East,Tier 1
+CT108,Ahmedabad,Gujarat,West,Tier 1
+CT109,Jaipur,Rajasthan,North,Tier 2
+CT110,Nagpur,Maharashtra,Central,Tier 2

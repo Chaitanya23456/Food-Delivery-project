@@ -1,0 +1,351 @@
+Delivery_Partner_ID,Partner_Name,City_ID,Vehicle_Type,Joining_Date,Partner_Rating,Completed_Deliveries
+DP1001,Deepak Pandey,CT104,Motorcycle,2023-08-09,4.2,1270
+DP1002,Pradeep Yadav,CT109,Motorcycle,2023-03-10,4.1,199
+DP1003,Ajay Chatterjee,CT101,Motorcycle,2022-08-31,4.1,585
+DP1004,Bablu Singh,CT104,Electric Bike,2023-02-20,3.8,1093
+DP1005,Hari Menon,CT102,Motorcycle,2022-05-04,4.5,346
+DP1006,Ajay Banerjee,CT101,Scooter,2023-10-12,4.5,643
+DP1007,Hari Mishra,CT103,Motorcycle,2023-06-22,4.2,1411
+DP1008,Raju Mishra,CT103,Motorcycle,2022-12-03,3.9,587
+DP1009,Ajay Kapoor,CT101,Motorcycle,2023-09-28,4.7,240
+DP1010,Deepak Gupta,CT102,Motorcycle,2022-08-13,4.0,1236
+DP1011,Santosh Das,CT101,Motorcycle,2023-02-17,4.7,1408
+DP1012,Govind Reddy,CT103,Motorcycle,2023-09-08,4.2,590
+DP1013,Mohan Nair,CT103,Electric Bike,2023-08-08,4.7,1762
+DP1014,Mukesh Sharma,CT102,Electric Bike,2023-04-25,4.3,1416
+DP1015,Raju Menon,CT102,Scooter,2022-09-04,4.8,1303
+DP1016,Sachin Saxena,CT106,Scooter,2022-06-14,3.9,1030
+DP1017,Naresh Yadav,CT103,Motorcycle,2023-09-06,3.9,1400
+DP1018,Sanjay Joshi,CT106,Motorcycle,2022-06-11,4.4,1450
+DP1019,Mahesh Ghosh,CT104,Electric Bike,2022-08-04,4.9,1531
+DP1020,Sunil Choudhury,CT103,Scooter,2022-11-07,4.4,709
+DP1021,Pramod Patel,CT103,Motorcycle,2022-05-02,4.2,1452
+DP1022,Anil Reddy,CT101,Motorcycle,2023-05-30,4.2,1626
+DP1023,Anil Iyer,CT110,Motorcycle,2023-12-25,4.7,381
+DP1024,Laxman Rao,CT105,Motorcycle,2023-06-02,4.8,674
+DP1025,Pramod Agarwal,CT102,Electric Bike,2022-12-26,3.9,1782
+DP1026,Sanjay Pillai,CT107,Motorcycle,2023-10-28,3.8,656
+DP1027,Dharmendra Kulkarni,CT102,Motorcycle,2022-09-25,4.2,631
+DP1028,Ramesh Kumar,CT103,Motorcycle,2022-05-26,4.0,1313
+DP1029,Hari Mukherjee,CT110,Scooter,2023-05-30,4.2,255
+DP1030,Dinesh Gupta,CT102,Bicycle,2023-09-14,4.1,1183
+DP1031,Raju Deshmukh,CT104,Motorcycle,2023-08-03,4.6,1388
+DP1032,Dinesh Patel,CT109,Motorcycle,2022-11-13,4.9,1707
+DP1033,Anil Chauhan,CT104,Motorcycle,2023-11-28,4.3,1136
+DP1034,Pradeep Iyer,CT102,Scooter,2023-01-23,4.6,968
+DP1035,Bablu Verma,CT103,Scooter,2023-09-05,4.9,1408
+DP1036,Santosh Pandey,CT104,Scooter,2022-10-28,4.5,888
+DP1037,Bablu Bhatia,CT102,Scooter,2022-04-29,4.0,495
+DP1038,Mohan Joshi,CT103,Motorcycle,2022-06-15,4.2,567
+DP1039,Naresh Jain,CT105,Scooter,2023-02-03,4.3,505
+DP1040,Anil Shetty,CT104,Scooter,2023-03-22,4.2,96
+DP1041,Mahesh Banerjee,CT102,Motorcycle,2022-07-07,3.9,1318
+DP1042,Mohan Trivedi,CT106,Bicycle,2023-12-16,4.4,88
+DP1043,Pramod Kapoor,CT108,Motorcycle,2022-08-21,4.0,862
+DP1044,Mohan Dutta,CT107,Electric Bike,2022-12-27,4.2,365
+DP1045,Mohan Chatterjee,CT103,Scooter,2022-01-15,4.2,1120
+DP1046,Dharmendra Saxena,CT107,Motorcycle,2022-06-12,4.0,1197
+DP1047,Hari Chauhan,CT104,Scooter,2023-08-17,4.0,1542
+DP1048,Ajay Dutta,CT107,Scooter,2023-12-30,4.3,844
+DP1049,Manoj Sharma,CT104,Motorcycle,2023-02-14,4.6,747
+DP1050,Laxman Rao,CT109,Motorcycle,2022-10-19,4.9,1553
+DP1051,Ashok Rao,CT102,Scooter,2023-03-12,3.9,571
+DP1052,Govind Mehta,CT107,Motorcycle,2022-08-28,4.6,86
+DP1053,Mukesh Hegde,CT104,Electric Bike,2023-12-24,4.0,109
+DP1054,Bablu Bhatia,CT101,Motorcycle,2023-10-28,4.5,1696
+DP1055,Laxman Pillai,CT106,Scooter,2022-08-21,4.5,956
+DP1056,Pradeep Ghosh,CT104,Electric Bike,2022-02-18,4.9,1090
+DP1057,Ganesh Bhatia,CT103,Scooter,2022-01-26,4.7,593
+DP1058,Jagdish Chatterjee,CT101,Scooter,2023-04-03,4.4,1346
+DP1059,Ganesh Mishra,CT101,Motorcycle,2022-04-17,4.1,1442
+DP1060,Govind Mukherjee,CT104,Motorcycle,2023-08-14,4.7,1784
+DP1061,Ashok Saxena,CT106,Scooter,2022-06-14,4.0,284
+DP1062,Naresh Menon,CT109,Scooter,2023-08-20,3.8,179
+DP1063,Manoj Chatterjee,CT103,Scooter,2022-11-12,4.6,1784
+DP1064,Santosh Deshmukh,CT103,Motorcycle,2023-10-01,4.6,1241
+DP1065,Govind Mehta,CT103,Motorcycle,2022-11-18,4.6,1709
+DP1066,Govind Ghosh,CT104,Motorcycle,2023-04-24,4.9,828
+DP1067,Jagdish Menon,CT104,Motorcycle,2023-03-20,4.2,1644
+DP1068,Mohan Agarwal,CT104,Scooter,2023-03-28,4.5,1744
+DP1069,Bablu Pillai,CT103,Motorcycle,2022-10-31,4.1,189
+DP1070,Chandan Shah,CT105,Motorcycle,2023-02-19,4.8,805
+DP1071,Pramod Reddy,CT104,Motorcycle,2023-05-22,3.9,1119
+DP1072,Vinod Dutta,CT104,Motorcycle,2023-02-21,4.6,608
+DP1073,Naresh Rao,CT106,Motorcycle,2022-01-11,3.9,217
+DP1074,Bablu Dutta,CT101,Motorcycle,2023-12-12,3.9,598
+DP1075,Govind Singh,CT104,Motorcycle,2022-02-24,3.9,1568
+DP1076,Hari Kumar,CT101,Scooter,2022-11-09,4.4,1484
+DP1077,Ashok Shetty,CT104,Scooter,2022-04-09,5.0,1711
+DP1078,Dinesh Joshi,CT103,Scooter,2022-02-27,4.0,188
+DP1079,Ashok Das,CT101,Motorcycle,2023-05-05,4.7,1092
+DP1080,Dharmendra Hegde,CT110,Motorcycle,2022-07-04,4.4,1368
+DP1081,Sunil Banerjee,CT106,Scooter,2023-02-24,4.6,385
+DP1082,Mukesh Mishra,CT103,Scooter,2022-03-04,4.9,840
+DP1083,Ganesh Pandey,CT105,Electric Bike,2023-11-09,4.2,880
+DP1084,Ajay Reddy,CT103,Electric Bike,2022-01-02,4.4,1481
+DP1085,Sunil Nair,CT101,Motorcycle,2022-08-30,4.6,1524
+DP1086,Ajay Pillai,CT109,Bicycle,2023-06-05,4.9,1467
+DP1087,Jagdish Mishra,CT102,Scooter,2022-10-11,4.2,1242
+DP1088,Pramod Patel,CT103,Motorcycle,2023-08-07,4.9,91
+DP1089,Manoj Pandey,CT105,Motorcycle,2023-09-02,4.4,333
+DP1090,Sachin Sharma,CT104,Electric Bike,2022-06-07,4.3,459
+DP1091,Dinesh Malhotra,CT103,Scooter,2022-10-10,4.5,656
+DP1092,Laxman Chatterjee,CT101,Electric Bike,2023-04-14,4.5,590
+DP1093,Ashok Kumar,CT103,Motorcycle,2023-05-18,4.6,391
+DP1094,Ajay Verma,CT103,Electric Bike,2023-03-18,3.8,1155
+DP1095,Kishore Reddy,CT106,Motorcycle,2023-06-14,4.0,1448
+DP1096,Bablu Rao,CT101,Scooter,2023-07-04,3.8,1356
+DP1097,Hari Dutta,CT104,Motorcycle,2022-10-02,4.3,1343
+DP1098,Ramesh Nair,CT103,Motorcycle,2022-06-24,3.9,1102
+DP1099,Deepak Verma,CT104,Motorcycle,2022-11-24,4.8,1727
+DP1100,Laxman Rao,CT102,Scooter,2022-06-03,4.1,1063
+DP1101,Vijay Bose,CT101,Motorcycle,2022-03-15,4.9,852
+DP1102,Manoj Kulkarni,CT107,Scooter,2023-10-22,4.6,570
+DP1103,Sanjay Banerjee,CT106,Motorcycle,2023-11-17,4.0,1423
+DP1104,Bablu Joshi,CT101,Motorcycle,2023-05-30,4.9,666
+DP1105,Kishore Saxena,CT103,Motorcycle,2023-08-21,4.5,216
+DP1106,Chandan Mehta,CT101,Scooter,2023-02-14,4.0,277
+DP1107,Santosh Pillai,CT102,Electric Bike,2023-12-11,4.2,1444
+DP1108,Mahesh Bose,CT107,Motorcycle,2023-01-01,4.8,577
+DP1109,Dinesh Shetty,CT104,Motorcycle,2022-02-22,4.8,1106
+DP1110,Mohan Hegde,CT108,Electric Bike,2022-09-18,4.0,408
+DP1111,Raju Pillai,CT105,Motorcycle,2022-08-12,4.4,1104
+DP1112,Pramod Gupta,CT107,Motorcycle,2023-03-25,4.8,1783
+DP1113,Dharmendra Gupta,CT102,Scooter,2022-02-23,4.3,59
+DP1114,Hari Dutta,CT107,Motorcycle,2023-10-17,4.9,1048
+DP1115,Anil Malhotra,CT102,Motorcycle,2023-01-08,4.9,778
+DP1116,Sunil Hegde,CT104,Bicycle,2022-11-21,4.4,529
+DP1117,Ashok Deshmukh,CT102,Motorcycle,2023-05-26,4.7,1257
+DP1118,Mukesh Choudhury,CT110,Motorcycle,2023-08-30,4.9,646
+DP1119,Suresh Pandey,CT106,Motorcycle,2022-10-24,4.6,989
+DP1120,Ganesh Iyer,CT103,Motorcycle,2023-06-22,3.9,1571
+DP1121,Suresh Menon,CT105,Scooter,2023-02-15,4.0,1157
+DP1122,Sanjay Bhatia,CT101,Motorcycle,2022-09-26,4.6,1594
+DP1123,Anil Shah,CT104,Electric Bike,2022-09-09,4.9,964
+DP1124,Mahesh Shetty,CT101,Electric Bike,2023-12-11,4.8,96
+DP1125,Sunil Pandey,CT101,Scooter,2022-12-07,4.6,981
+DP1126,Vijay Shetty,CT104,Motorcycle,2022-04-25,3.9,907
+DP1127,Vijay Mishra,CT104,Motorcycle,2023-09-12,4.7,1668
+DP1128,Suresh Hegde,CT104,Electric Bike,2023-12-19,4.3,1335
+DP1129,Laxman Ghosh,CT104,Motorcycle,2022-01-19,4.8,636
+DP1130,Sanjay Reddy,CT110,Motorcycle,2023-11-24,4.7,69
+DP1131,Santosh Mishra,CT104,Motorcycle,2023-07-01,4.4,296
+DP1132,Chandan Pandey,CT106,Scooter,2022-01-19,5.0,451
+DP1133,Naresh Gupta,CT105,Scooter,2022-08-24,4.4,70
+DP1134,Pramod Banerjee,CT102,Motorcycle,2022-09-13,4.3,500
+DP1135,Mohan Yadav,CT101,Motorcycle,2023-12-13,3.8,1637
+DP1136,Laxman Ghosh,CT103,Scooter,2023-07-13,3.9,1312
+DP1137,Chandan Kapoor,CT104,Scooter,2023-08-03,4.4,332
+DP1138,Ajay Chauhan,CT105,Motorcycle,2023-05-08,4.4,1323
+DP1139,Mohan Mukherjee,CT104,Motorcycle,2023-12-19,4.6,1778
+DP1140,Naresh Yadav,CT104,Motorcycle,2022-02-09,4.3,113
+DP1141,Anil Menon,CT103,Scooter,2022-07-21,4.9,1623
+DP1142,Mahesh Malhotra,CT102,Scooter,2023-08-09,4.7,1166
+DP1143,Suresh Menon,CT103,Scooter,2023-12-17,4.5,1151
+DP1144,Kishore Bose,CT106,Motorcycle,2022-10-08,4.5,295
+DP1145,Mahesh Patel,CT104,Motorcycle,2022-09-27,4.6,951
+DP1146,Mukesh Pandey,CT106,Motorcycle,2023-04-16,4.1,1558
+DP1147,Manoj Patel,CT101,Motorcycle,2022-05-19,4.2,667
+DP1148,Santosh Verma,CT101,Motorcycle,2023-10-19,4.7,1693
+DP1149,Chandan Kapoor,CT101,Motorcycle,2023-12-05,4.2,394
+DP1150,Dharmendra Nair,CT104,Motorcycle,2022-05-04,4.6,503
+DP1151,Dharmendra Malhotra,CT103,Motorcycle,2022-08-28,4.5,905
+DP1152,Govind Kapoor,CT104,Scooter,2023-03-26,4.0,952
+DP1153,Ajay Yadav,CT104,Motorcycle,2022-10-09,4.3,771
+DP1154,Mohan Mishra,CT102,Bicycle,2022-12-06,4.6,951
+DP1155,Govind Gupta,CT103,Scooter,2023-07-06,4.1,1464
+DP1156,Anil Ghosh,CT105,Motorcycle,2023-03-14,4.6,1599
+DP1157,Hari Iyer,CT110,Scooter,2023-08-02,3.9,1068
+DP1158,Naresh Malhotra,CT104,Scooter,2022-11-30,4.1,1743
+DP1159,Mohan Das,CT104,Electric Bike,2022-03-29,4.7,97
+DP1160,Kishore Shetty,CT101,Motorcycle,2022-04-30,5.0,1111
+DP1161,Mukesh Agarwal,CT107,Motorcycle,2023-10-17,4.1,1251
+DP1162,Bablu Gupta,CT104,Motorcycle,2022-07-07,4.0,165
+DP1163,Mahesh Joshi,CT106,Motorcycle,2023-11-22,4.0,1022
+DP1164,Sachin Chatterjee,CT110,Electric Bike,2022-09-29,4.6,766
+DP1165,Vijay Chatterjee,CT106,Electric Bike,2022-06-14,4.3,1062
+DP1166,Jagdish Rao,CT105,Motorcycle,2023-03-25,4.8,1542
+DP1167,Mohan Singh,CT105,Motorcycle,2022-01-25,4.3,852
+DP1168,Sunil Yadav,CT104,Scooter,2022-09-25,4.0,61
+DP1169,Deepak Shah,CT105,Motorcycle,2023-03-16,4.5,1139
+DP1170,Naresh Pillai,CT107,Motorcycle,2023-07-29,4.0,1525
+DP1171,Laxman Kulkarni,CT105,Electric Bike,2023-07-12,4.4,1629
+DP1172,Ramesh Singh,CT104,Motorcycle,2022-03-20,4.0,218
+DP1173,Laxman Saxena,CT109,Motorcycle,2023-07-23,3.9,939
+DP1174,Suresh Rao,CT104,Bicycle,2023-02-03,4.0,1502
+DP1175,Jagdish Mehta,CT103,Scooter,2022-07-16,4.2,317
+DP1176,Govind Ghosh,CT106,Electric Bike,2022-10-25,4.1,1427
+DP1177,Pradeep Rao,CT102,Electric Bike,2023-05-28,4.1,1532
+DP1178,Kishore Iyer,CT108,Motorcycle,2023-12-15,4.0,138
+DP1179,Mukesh Patel,CT102,Scooter,2022-03-13,4.4,1074
+DP1180,Ganesh Nair,CT106,Motorcycle,2023-09-25,4.3,907
+DP1181,Hari Menon,CT103,Motorcycle,2022-01-27,4.0,249
+DP1182,Raju Banerjee,CT104,Motorcycle,2023-09-17,4.1,1023
+DP1183,Naresh Hegde,CT103,Motorcycle,2023-11-30,4.4,1693
+DP1184,Ganesh Mishra,CT102,Scooter,2022-04-15,4.7,1557
+DP1185,Sanjay Mehta,CT103,Scooter,2022-12-01,3.9,364
+DP1186,Dharmendra Banerjee,CT101,Bicycle,2023-03-13,4.2,1666
+DP1187,Mahesh Yadav,CT104,Motorcycle,2023-01-18,4.9,1155
+DP1188,Bablu Bhatia,CT103,Scooter,2023-08-19,4.8,1471
+DP1189,Mohan Mehta,CT102,Motorcycle,2023-04-18,4.2,407
+DP1190,Chandan Shetty,CT104,Motorcycle,2022-12-14,4.4,1542
+DP1191,Ashok Gupta,CT105,Motorcycle,2022-06-28,4.2,558
+DP1192,Hari Shah,CT108,Scooter,2022-07-09,5.0,395
+DP1193,Laxman Chatterjee,CT103,Scooter,2023-08-07,4.8,694
+DP1194,Santosh Sharma,CT105,Motorcycle,2022-11-21,4.5,726
+DP1195,Anil Shetty,CT102,Bicycle,2022-06-02,4.1,818
+DP1196,Vinod Mukherjee,CT104,Motorcycle,2022-01-12,5.0,704
+DP1197,Anil Joshi,CT108,Motorcycle,2023-02-15,4.3,878
+DP1198,Raju Mishra,CT106,Motorcycle,2023-12-13,4.5,128
+DP1199,Sunil Reddy,CT104,Motorcycle,2022-04-25,4.4,611
+DP1200,Naresh Saxena,CT104,Motorcycle,2023-10-12,4.6,778
+DP1201,Ramesh Rao,CT103,Scooter,2023-09-19,4.2,731
+DP1202,Jagdish Pandey,CT101,Scooter,2022-10-15,4.5,195
+DP1203,Sachin Yadav,CT110,Motorcycle,2022-05-10,4.4,1764
+DP1204,Deepak Patel,CT103,Scooter,2022-05-19,4.8,529
+DP1205,Laxman Singh,CT110,Motorcycle,2023-05-15,4.7,1096
+DP1206,Naresh Agarwal,CT105,Scooter,2023-07-08,4.7,767
+DP1207,Deepak Patel,CT104,Motorcycle,2023-11-08,4.9,1783
+DP1208,Ashok Mehta,CT102,Motorcycle,2023-09-13,4.0,946
+DP1209,Mohan Singh,CT101,Electric Bike,2022-02-04,4.4,1737
+DP1210,Deepak Joshi,CT102,Electric Bike,2022-03-20,4.7,563
+DP1211,Sanjay Saxena,CT104,Motorcycle,2022-07-03,4.3,152
+DP1212,Chandan Hegde,CT104,Motorcycle,2022-12-10,4.4,705
+DP1213,Vinod Chauhan,CT102,Scooter,2023-05-04,5.0,1097
+DP1214,Anil Agarwal,CT107,Motorcycle,2022-02-14,4.5,725
+DP1215,Sanjay Dutta,CT101,Bicycle,2023-06-04,4.5,635
+DP1216,Chandan Shetty,CT105,Motorcycle,2022-07-05,3.9,1361
+DP1217,Manoj Pandey,CT104,Motorcycle,2023-04-18,4.1,1026
+DP1218,Sunil Verma,CT109,Motorcycle,2023-06-18,4.7,1677
+DP1219,Ashok Dutta,CT103,Scooter,2023-11-17,4.0,1156
+DP1220,Kishore Agarwal,CT106,Motorcycle,2022-08-26,4.9,1798
+DP1221,Pramod Mishra,CT104,Motorcycle,2022-03-14,4.7,708
+DP1222,Dinesh Shetty,CT103,Motorcycle,2022-03-28,4.9,755
+DP1223,Deepak Iyer,CT107,Motorcycle,2023-10-01,4.5,216
+DP1224,Jagdish Kapoor,CT104,Motorcycle,2023-08-25,4.0,142
+DP1225,Sachin Saxena,CT104,Motorcycle,2022-04-15,4.3,1609
+DP1226,Mohan Agarwal,CT106,Motorcycle,2023-12-04,4.3,682
+DP1227,Naresh Iyer,CT104,Motorcycle,2022-12-09,4.2,1730
+DP1228,Manoj Mukherjee,CT104,Motorcycle,2022-08-19,4.1,232
+DP1229,Santosh Nair,CT102,Motorcycle,2022-10-20,4.4,1233
+DP1230,Manoj Rao,CT105,Scooter,2023-02-08,4.3,709
+DP1231,Vinod Pillai,CT102,Electric Bike,2022-03-31,3.8,93
+DP1232,Kishore Das,CT101,Electric Bike,2022-01-01,3.8,470
+DP1233,Dharmendra Agarwal,CT108,Motorcycle,2022-04-03,4.4,76
+DP1234,Manoj Saxena,CT104,Scooter,2022-11-12,4.6,1492
+DP1235,Mahesh Saxena,CT104,Bicycle,2022-05-28,4.9,1472
+DP1236,Anil Bhatia,CT104,Motorcycle,2023-09-16,4.7,1615
+DP1237,Suresh Kumar,CT101,Motorcycle,2023-08-11,3.9,462
+DP1238,Sunil Pandey,CT103,Bicycle,2022-06-10,5.0,199
+DP1239,Sunil Saxena,CT109,Scooter,2022-04-30,4.3,641
+DP1240,Govind Joshi,CT101,Motorcycle,2022-01-26,3.9,1420
+DP1241,Govind Shetty,CT101,Electric Bike,2022-02-15,3.9,994
+DP1242,Mohan Chatterjee,CT106,Motorcycle,2022-01-21,4.4,656
+DP1243,Mohan Malhotra,CT110,Motorcycle,2022-04-30,4.4,712
+DP1244,Pradeep Joshi,CT101,Motorcycle,2022-05-16,5.0,505
+DP1245,Ashok Deshmukh,CT101,Motorcycle,2023-05-26,4.3,261
+DP1246,Vijay Singh,CT107,Scooter,2023-10-15,4.1,763
+DP1247,Ganesh Malhotra,CT101,Motorcycle,2023-02-23,4.6,1131
+DP1248,Pradeep Rao,CT105,Electric Bike,2022-07-14,4.5,979
+DP1249,Laxman Joshi,CT105,Bicycle,2022-05-14,4.3,855
+DP1250,Hari Mukherjee,CT101,Motorcycle,2023-10-02,4.9,1643
+DP1251,Naresh Kapoor,CT110,Motorcycle,2022-12-31,4.6,84
+DP1252,Mahesh Yadav,CT101,Electric Bike,2022-09-26,4.9,1262
+DP1253,Pramod Reddy,CT105,Motorcycle,2022-12-11,4.5,534
+DP1254,Mahesh Yadav,CT109,Motorcycle,2022-10-06,4.5,1049
+DP1255,Hari Chatterjee,CT101,Bicycle,2023-01-05,4.6,1253
+DP1256,Sachin Pandey,CT104,Motorcycle,2022-03-14,3.8,126
+DP1257,Naresh Ghosh,CT105,Motorcycle,2023-05-03,3.8,975
+DP1258,Jagdish Jain,CT101,Motorcycle,2022-10-22,4.9,186
+DP1259,Mohan Mehta,CT101,Electric Bike,2022-01-07,3.8,884
+DP1260,Raju Shetty,CT104,Motorcycle,2022-03-24,3.8,173
+DP1261,Pradeep Jain,CT104,Motorcycle,2022-06-29,4.2,728
+DP1262,Chandan Mukherjee,CT105,Motorcycle,2022-05-26,4.0,1314
+DP1263,Dharmendra Pandey,CT101,Electric Bike,2022-10-18,4.8,992
+DP1264,Pramod Malhotra,CT101,Motorcycle,2023-09-07,4.7,1319
+DP1265,Kishore Agarwal,CT102,Scooter,2022-02-03,4.4,68
+DP1266,Sachin Mukherjee,CT107,Scooter,2022-05-26,4.7,734
+DP1267,Govind Joshi,CT106,Electric Bike,2023-10-10,4.9,1415
+DP1268,Laxman Trivedi,CT108,Motorcycle,2023-01-09,4.6,161
+DP1269,Vinod Verma,CT103,Motorcycle,2023-06-18,4.0,64
+DP1270,Sunil Saxena,CT105,Motorcycle,2022-09-12,4.9,791
+DP1271,Pradeep Iyer,CT103,Motorcycle,2022-11-11,4.1,529
+DP1272,Jagdish Saxena,CT101,Scooter,2022-06-15,4.8,740
+DP1273,Kishore Kulkarni,CT101,Motorcycle,2022-08-04,4.3,1578
+DP1274,Dinesh Deshmukh,CT105,Electric Bike,2022-03-15,4.1,891
+DP1275,Vinod Kapoor,CT102,Electric Bike,2022-01-31,4.1,165
+DP1276,Ashok Chatterjee,CT106,Electric Bike,2022-03-29,4.4,1473
+DP1277,Naresh Chauhan,CT101,Motorcycle,2022-02-14,4.8,297
+DP1278,Ramesh Banerjee,CT105,Scooter,2022-08-10,4.1,794
+DP1279,Sanjay Das,CT106,Motorcycle,2023-08-18,4.5,1693
+DP1280,Sachin Patel,CT102,Scooter,2023-02-23,4.6,162
+DP1281,Mohan Shetty,CT106,Electric Bike,2023-02-18,4.4,1415
+DP1282,Pramod Pandey,CT104,Motorcycle,2022-11-07,4.0,769
+DP1283,Sunil Pillai,CT102,Motorcycle,2022-12-27,4.4,800
+DP1284,Jagdish Chatterjee,CT105,Motorcycle,2022-05-25,4.5,1062
+DP1285,Ramesh Kumar,CT104,Scooter,2022-05-30,4.8,317
+DP1286,Jagdish Pillai,CT105,Motorcycle,2022-10-14,4.0,433
+DP1287,Mukesh Kumar,CT106,Motorcycle,2022-03-01,4.5,777
+DP1288,Manoj Mehta,CT101,Bicycle,2023-09-16,4.5,205
+DP1289,Mukesh Verma,CT105,Scooter,2023-12-19,4.1,701
+DP1290,Vinod Pillai,CT104,Scooter,2022-05-04,4.0,153
+DP1291,Santosh Mukherjee,CT103,Motorcycle,2022-08-07,4.3,1595
+DP1292,Mahesh Hegde,CT102,Motorcycle,2022-12-26,4.0,1547
+DP1293,Ajay Mishra,CT104,Electric Bike,2023-04-25,4.6,495
+DP1294,Govind Jain,CT101,Motorcycle,2023-07-04,4.2,342
+DP1295,Hari Jain,CT104,Bicycle,2022-11-04,4.9,1339
+DP1296,Kishore Chauhan,CT106,Bicycle,2022-12-20,4.6,1185
+DP1297,Santosh Verma,CT104,Scooter,2023-12-31,4.4,1094
+DP1298,Manoj Mehta,CT109,Electric Bike,2023-11-17,4.7,1470
+DP1299,Vijay Reddy,CT108,Electric Bike,2023-06-21,4.8,458
+DP1300,Sunil Agarwal,CT103,Motorcycle,2022-01-22,4.4,98
+DP1301,Mahesh Mehta,CT103,Electric Bike,2022-12-22,4.9,773
+DP1302,Ganesh Patel,CT103,Motorcycle,2022-11-03,4.8,1331
+DP1303,Pradeep Mukherjee,CT104,Motorcycle,2023-09-13,4.8,263
+DP1304,Pradeep Mukherjee,CT101,Scooter,2022-03-07,4.4,1553
+DP1305,Jagdish Reddy,CT104,Scooter,2022-01-09,4.8,1543
+DP1306,Anil Ghosh,CT102,Motorcycle,2022-04-30,4.2,881
+DP1307,Kishore Bose,CT101,Motorcycle,2023-02-04,3.9,1358
+DP1308,Mahesh Mehta,CT108,Motorcycle,2023-05-09,4.3,71
+DP1309,Santosh Trivedi,CT103,Scooter,2023-02-20,4.9,1662
+DP1310,Govind Singh,CT101,Scooter,2022-11-01,4.7,221
+DP1311,Ramesh Reddy,CT104,Scooter,2022-06-27,4.4,265
+DP1312,Jagdish Shetty,CT101,Scooter,2022-05-10,4.2,975
+DP1313,Jagdish Reddy,CT103,Motorcycle,2022-07-05,4.1,123
+DP1314,Naresh Mishra,CT107,Motorcycle,2023-08-01,4.7,1353
+DP1315,Anil Bose,CT101,Bicycle,2022-07-29,5.0,217
+DP1316,Govind Kumar,CT104,Scooter,2023-10-24,4.6,1771
+DP1317,Naresh Singh,CT110,Scooter,2023-06-22,4.6,1610
+DP1318,Sunil Verma,CT108,Scooter,2023-08-03,4.4,1144
+DP1319,Naresh Bhatia,CT109,Motorcycle,2022-11-24,4.2,654
+DP1320,Naresh Mehta,CT103,Motorcycle,2022-08-16,5.0,354
+DP1321,Laxman Pillai,CT103,Motorcycle,2023-08-15,4.5,445
+DP1322,Ganesh Choudhury,CT102,Motorcycle,2022-01-22,4.9,619
+DP1323,Sunil Agarwal,CT105,Motorcycle,2023-05-10,3.9,1189
+DP1324,Deepak Reddy,CT107,Scooter,2022-10-04,4.0,1172
+DP1325,Naresh Kumar,CT105,Motorcycle,2022-12-08,4.9,529
+DP1326,Vijay Dutta,CT106,Scooter,2023-04-25,4.8,1649
+DP1327,Jagdish Pillai,CT101,Scooter,2022-09-14,4.7,760
+DP1328,Manoj Banerjee,CT105,Motorcycle,2022-11-05,3.9,320
+DP1329,Dharmendra Shetty,CT101,Bicycle,2023-12-04,3.8,246
+DP1330,Suresh Jain,CT104,Scooter,2023-05-12,4.0,412
+DP1331,Naresh Chatterjee,CT104,Motorcycle,2022-10-05,4.2,301
+DP1332,Sanjay Patel,CT105,Motorcycle,2023-05-16,4.2,344
+DP1333,Jagdish Sharma,CT101,Electric Bike,2023-07-25,4.0,901
+DP1334,Sachin Chatterjee,CT102,Motorcycle,2023-05-17,3.9,1448
+DP1335,Sachin Iyer,CT105,Motorcycle,2022-12-21,5.0,429
+DP1336,Sunil Choudhury,CT107,Motorcycle,2023-12-06,4.1,1797
+DP1337,Vijay Mukherjee,CT104,Motorcycle,2023-09-26,5.0,1768
+DP1338,Ajay Joshi,CT110,Motorcycle,2022-12-07,4.8,1649
+DP1339,Ramesh Rao,CT102,Bicycle,2022-07-06,4.3,963
+DP1340,Deepak Chauhan,CT102,Motorcycle,2022-08-24,4.4,1057
+DP1341,Santosh Shetty,CT108,Electric Bike,2022-12-14,4.4,1061
+DP1342,Chandan Hegde,CT108,Scooter,2022-05-24,4.0,1665
+DP1343,Bablu Iyer,CT101,Bicycle,2022-02-16,3.8,675
+DP1344,Dinesh Kulkarni,CT101,Scooter,2022-10-15,4.0,146
+DP1345,Bablu Das,CT102,Motorcycle,2022-08-04,4.5,813
+DP1346,Jagdish Kulkarni,CT108,Motorcycle,2022-02-03,4.8,306
+DP1347,Bablu Agarwal,CT101,Motorcycle,2022-07-23,4.3,900
+DP1348,Ajay Joshi,CT104,Motorcycle,2022-12-13,4.4,1546
+DP1349,Vijay Singh,CT105,Scooter,2023-05-07,4.5,707
+DP1350,Ganesh Deshmukh,CT107,Scooter,2022-11-14,4.2,695
